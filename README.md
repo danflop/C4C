@@ -16,5 +16,6 @@ This initiative aims to promote the development of better tools for conservation
 
 * Rio de Janeiro Botanical Garden (JBRJ)
 * National Commission for the Knowledge and Use of Biodiversity ([CONABIO](https://www.gob.mx/conabio)), Mexico
+* Instituto Alexander von Humboldt ([IAvH](http://humboldt.org.co)), Colombia
 
 (add yours)
